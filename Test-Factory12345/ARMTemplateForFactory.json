@@ -45,7 +45,7 @@
 							},
 							{
 								"name": "Destination",
-								"value": "adfv2tutorial/output/"
+								"value": "adfv2tutorial/outputEmp.txt"
 							}
 						],
 						"typeProperties": {
@@ -109,7 +109,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"folderPath": "output",
+						"fileName": "outputEmp.txt",
 						"container": "adfv2tutorial"
 					}
 				}

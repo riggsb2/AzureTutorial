@@ -1,0 +1,9 @@
+{
+	"name": "Test-Factory12345",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15d30d5b-e017-4a24-b5af-1f48c509a95c",
+		"tenantId": "5d9dfc5e-6cbc-42e1-84ac-27a6bde9d90c"
+	}
+}

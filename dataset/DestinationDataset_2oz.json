@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"folderPath": "output",
+				"fileName": "outputEmp.txt",
 				"container": "adfv2tutorial"
 			}
 		}

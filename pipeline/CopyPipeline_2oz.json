@@ -20,7 +20,7 @@
 					},
 					{
 						"name": "Destination",
-						"value": "adfv2tutorial/output/"
+						"value": "adfv2tutorial/outputEmp.txt"
 					}
 				],
 				"typeProperties": {

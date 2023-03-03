@@ -20,6 +20,9 @@
 		"schema": [
 			{
 				"type": "String"
+			},
+			{
+				"type": "String"
 			}
 		]
 	}
